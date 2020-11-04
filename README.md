@@ -16,7 +16,7 @@ My Name is Alapan Das and I am a Automation Test Engineer. I am from India, curr
 <a href="https://github.com/alapanme/alapanme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanme&hide=html,css" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/alapanme/alapanme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=alapanme&show_icons=true&theme=default&hide=contribs&line_height=32" alt="Alapan's GitHub Stats" />
 </a>
 
