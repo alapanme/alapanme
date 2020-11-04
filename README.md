@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Alapan and I am a Automation Test Engineer from India, currently living and working in Finland. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 ## Some things about Me!
