@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🐞 Testing Blog: https://testersdock.com/
 - 💻 Dev Blog: https://closediv.tech/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=alapanme&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=alapanme&show_icons=true&theme=highcontrast" />
