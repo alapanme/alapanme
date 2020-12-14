@@ -3,7 +3,7 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 
 ## Some things about Me!
 - 🔭 I’m currently working on Sharepoint Apps with Cypress
-- 🌱 I’m currently learning Amazon Web Services
+- 🌱 I’m currently learning Nightwatch JS
 - 💬 Ask me about anything. Always happy to help
 - 📫 How to reach me: admin@alapan.me
 - 🤵 Pronouns: He/Him
