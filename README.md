@@ -8,7 +8,7 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 - 📫 How to reach me: admin@alapan.me
 - 🤵 Pronouns: He/Him
 - ⚡ Fun fact: I once binge watched a TV series(House of Cards) for 36 hours Hours straight.
-- 💾 Stackoverflow: https://stackoverflow.com/users/4571271/alapan-das?tab=profile
+- 💾 Stackoverflow: https://stackoverflow.com/users/4571271/alapan-das
 - 🐞 Testing Blog: https://testersdock.com/
 - 💻 Dev Blog: https://closediv.tech/
 
