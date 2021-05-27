@@ -1,4 +1,5 @@
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 My Name is Alapan and I am a Automation Test Engineer from India, currently living and working in Finland. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 ## Some things about Me!
@@ -12,7 +13,7 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 - 🐞 Testing Blog: https://testersdock.com/
 - 💻 Dev Blog: https://closediv.tech/
 
-## Github Stats!
+## Github Stats! ![](https://komarev.com/ghpvc/?username=alapanme)
 <a href="https://github.com/alapanme/alapanme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanme&hide=html,css" />
 </a>
