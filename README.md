@@ -13,6 +13,9 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 - 🐞 Testing Blog: https://testersdock.com/
 - 💻 Dev Blog: https://closediv.tech/
 
+## Stackoverflow Stats
+<a href="https://stackoverflow.com/users/4571271/alapan-das"><img src="https://stackoverflow.com/users/flair/4571271.png?theme=dark" width="208" height="58" alt="profile for Alapan Das at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Alapan Das at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ## Github Stats! ![](https://komarev.com/ghpvc/?username=alapanme)
 <a href="https://github.com/alapanme/alapanme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanme&hide=html,css" />
