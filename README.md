@@ -18,7 +18,7 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 
 ## Github Stats! ![](https://komarev.com/ghpvc/?username=alapanme)
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=alapanme&show_icons=true&theme=default&hide_border=true" alt="Alapan's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanme&hide=html,css&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanme&hide=html,css,handlebars&hide_border=true" />
 
 <!-- Social Media Icons and URLs -->
 [1.1]: http://i.imgur.com/wWzX9uB.png
