@@ -3,12 +3,12 @@
 My Name is Alapan and I am a Automation Test Engineer from India, currently living and working in London, UK. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 ## Some things about Me!
-- 🔭 I’m currently working with Python and Java based Automation Test Frameworks.
+- 🔭 I’m currently working with Python and Java based Automation Test Frameworks
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about anything. Always happy to help
 - 📫 How to reach me: admin@alapan.me
 - 🤵 Pronouns: He/Him
-- ⚡ Fun fact: I once binge watched a TV series(House of Cards) for 36 hours Hours straight.
+- ⚡ Fun fact: I once binge watched a TV series(House of Cards) for 36 hours Hours straight
 - 💾 Stackoverflow: https://stackoverflow.com/users/4571271/alapan-das
 - 🐞 Testing Blog: https://testersdock.com/
 - 💻 Dev Blog: https://closediv.tech/
