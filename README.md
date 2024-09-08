@@ -1,6 +1,6 @@
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" height="4%"/>
 
-My Name is Alapan and I am a Automation Test Engineer from India, currently living in London, UK, and working at Apple. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+My Name is Alapan and I am an Automation Test Engineer from India, currently living in London, UK, and working at Apple. You can find me on [![LinkedIn][2.1]][2].
 
 ## Some things about Me!
 - 🔭 I’m currently working with Python and Java based Automation Test Frameworks
@@ -22,5 +22,4 @@ My Name is Alapan and I am a Automation Test Engineer from India, currently livi
 <!-- Social Media Icons and URLs -->
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1]: https://twitter.com/alapanme
 [2]: https://www.linkedin.com/in/alapandas/
